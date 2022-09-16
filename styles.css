@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    flex-direction: column;
+    margin:0;
+    padding:0;
+}
+
+.section{
+     border:2px solid black;
+     margin-bottom: 10px;
+}
